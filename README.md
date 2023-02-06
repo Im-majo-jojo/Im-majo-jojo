@@ -7,7 +7,7 @@
 
 ######  :sunny: sunshineLover
 
-######  :black_cat: crazyCatLady 
+######  :cat: crazyCatLady 
 
 ------------
 ### My skills
